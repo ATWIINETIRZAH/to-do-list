@@ -18,3 +18,10 @@ ul {
     list-style: none;
     padding: 0;
 }
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+}
